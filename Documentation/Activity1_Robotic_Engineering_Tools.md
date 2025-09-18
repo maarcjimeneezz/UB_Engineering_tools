@@ -130,7 +130,7 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 
 **Activity Student 3:** Bruna Giralt Muntada
 
-| ![](./Images/Sync_BrunaGiralt.png) | ![](./Images/Pick_BrunaGiralt.png) |
+| ![](./Images/Sync_Bruna_Giralt.png) | ![](./Images/Pick_BrunaGiralt.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
